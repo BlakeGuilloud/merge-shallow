@@ -1,7 +1,7 @@
 {
-  "name": "npm-pkg",
+  "name": "merge-shallow",
   "version": "1.0.0",
-  "description": "Boilerplate for my NPM packages.",
+  "description": "Proof of concept for a shallow merge",
   "main": "index.js",
   "author": "Blake Guilloud <blake.guilloud@gmail.com>",
   "license": "MIT",
